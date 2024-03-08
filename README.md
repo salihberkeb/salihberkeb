@@ -6,7 +6,6 @@ Skills: PYTHON / C / SQL / MS SQL / MACHINE LEARNING / DEEP LEARNING
 
 - 🔭 I’m currently working on Colorization 
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 👯 I’m looking to collaborate on Mathematical Engineers 
 - 😄 Pronouns: sbb 
 
 
